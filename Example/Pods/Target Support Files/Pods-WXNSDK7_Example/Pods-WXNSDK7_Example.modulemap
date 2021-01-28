@@ -1,0 +1,6 @@
+framework module Pods_WXNSDK7_Example {
+  umbrella header "Pods-WXNSDK7_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

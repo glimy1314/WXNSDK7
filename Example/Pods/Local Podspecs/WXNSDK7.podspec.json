@@ -1,0 +1,22 @@
+{
+  "name": "WXNSDK7",
+  "version": "0.1.0",
+  "summary": "A short description of WXNSDK7.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/glimy1314/WXNSDK7",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guoliang": "guoliang@baiing.cn"
+  },
+  "source": {
+    "git": "https://github.com/glimy1314/WXNSDK7.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WXNSDK7/Classes/**/*.swift"
+}

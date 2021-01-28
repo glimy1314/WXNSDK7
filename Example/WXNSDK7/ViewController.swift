@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import WXNSDK7
 
 class ViewController: UIViewController {
 

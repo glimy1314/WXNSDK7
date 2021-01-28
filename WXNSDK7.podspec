@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WXNSDK7'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of WXNSDK7.'
 
 # This description is used to generate tags and improve search results.
@@ -21,16 +21,16 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/guoliang/WXNSDK7'
+  s.homepage         = 'https://github.com/glimy1314/WXNSDK7'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'guoliang' => 'guoliang@baiing.cn' }
-  s.source           = { :git => 'https://github.com/guoliang/WXNSDK7.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/glimy1314/WXNSDK7.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'WXNSDK7/Classes/**/*'
+  s.source_files = 'WXNSDK7/Classes/**/*.swift'
   
   # s.resource_bundles = {
   #   'WXNSDK7' => ['WXNSDK7/Assets/*.png']
